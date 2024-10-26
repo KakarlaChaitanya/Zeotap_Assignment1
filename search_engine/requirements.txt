@@ -1,0 +1,8 @@
+# Flask for API development
+Flask==2.0.1
+
+# pytest for testing
+pytest==6.2.5
+
+# requests for handling any external API requests, if needed for testing or further expansions
+requests==2.26.0
